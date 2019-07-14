@@ -44,4 +44,4 @@ if input() == "password":
     print("                              %%%%%")
     print("                           .,%%%%%%%,.")
     print("                      ,%%%%%%%%%%%%%%%%%%%,")
-    print("Peace dude ")
+    print("Peace dude!")
